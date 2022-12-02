@@ -3,14 +3,8 @@
 <a href="http://www.hypernylium.com">
     <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
 </a>   
-<a href="mailto:georgiou.kostas94@gmail.com">
+<a href="http://www.hypernylium.com/en-en/customer-support/">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href="https://pypi.org/user/HyperNylium/">
-    <img src="https://img.shields.io/badge/PyPi-HyperNylium-blue?style=flat-square&logo=pypi&logoColor=white">
-</a>
-<a href="https://pypi.org/user/HyperNylium/">
-    <img src="https://komarev.com/ghpvc/?username=HyperNylium&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a>
 
 <br/> 
